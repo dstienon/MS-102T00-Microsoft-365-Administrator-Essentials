@@ -6,7 +6,7 @@ Having created a Safe Attachments policy, Holly Dickson now wants to create a Sa
 
 ### Task 1 – Create a Safe Links Policy
 
-In this task, you will create a Safe Links policy that applies to all users in your tenant. You will then add the **http://tailspintoys.com** URL to the company-wide list of blocked URLs (i.e. the Tenant Block List) that you will define in the Microsoft Defender portal. The blocked URLs and other options defined in the Safe Links global settings are only applied to users who are included in active Safe Links policies. There is no built-in or default Safe Links policy, so you must create at least one Safe Links policy for these global settings to be active.  
+In this task, you will create a Safe Links policy that applies to all users in your tenant. You will then add the **https://tailspintoys.com** URL to the company-wide list of blocked URLs (i.e. the Tenant Block List) that you will define in the Microsoft Defender portal. The blocked URLs and other options defined in the Safe Links global settings are only applied to users who are included in active Safe Links policies. There is no built-in or default Safe Links policy, so you must create at least one Safe Links policy for these global settings to be active.  
 
 1. On LON-CL1, in your Edge browser, you should still be logged into Microsoft 365 as **Holly Dickson**.
 
